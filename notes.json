@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "blue cube"
+    },
+    {
+      "id": 1,
+      "name": "container"
+    },
+    {
+      "id": 2,
+      "name": "green cube"
+    },
+    {
+      "id": 3,
+      "name": "red cube"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

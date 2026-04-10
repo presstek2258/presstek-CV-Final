@@ -1,0 +1,4 @@
+blue cube
+container
+green cube
+red cube

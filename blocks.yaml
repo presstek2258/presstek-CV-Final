@@ -1,0 +1,10 @@
+path: ./custom_dataset/
+train: images/train/
+val: images/val/
+test: images/test/
+
+names:
+  0: blue cube
+  1: container
+  2: green cube
+  3: red cube
