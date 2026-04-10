@@ -1,3 +1,4 @@
+# SCRIPT WRITTEN BY GEMINI 3 PRO
 import cv2
 import os
 import time
