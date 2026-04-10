@@ -141,7 +141,7 @@ def run_yolo_and_save_image_with_bbox(cap, object_name):
     if not ret:
         return None
 
-    results = YOLO_MODEL(frame, verbose=False, conf=0.3)
+    results = YOLO_MODEL(frame, verbose=False, conf=0.5)
     display_frame = results[0].plot()
 
     # search for boxes
